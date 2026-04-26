@@ -1,3 +1,4 @@
+# wprowadzona zmiana z gałęźi conflict-demo
 # moje-pierwsze-repo
 
 ## Wstęp
