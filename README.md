@@ -1,3 +1,4 @@
+# To jest jednak lepszy opis
 # moje-pierwsze-repo
 
 ## Wstęp
